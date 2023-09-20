@@ -1,0 +1,12 @@
+D:\VS Code\HackerRankChallenges\challanges\bin\Debug\net6.0\Challanges.deps.json
+D:\VS Code\HackerRankChallenges\challanges\bin\Debug\net6.0\Challanges.dll
+D:\VS Code\HackerRankChallenges\challanges\bin\Debug\net6.0\Challanges.pdb
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.csproj.AssemblyReference.cache
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.AssemblyInfoInputs.cache
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.AssemblyInfo.cs
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.csproj.CoreCompileInputs.cache
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.dll
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\refint\Challanges.dll
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\Challanges.pdb
+D:\VS Code\HackerRankChallenges\challanges\obj\Debug\net6.0\ref\Challanges.dll
