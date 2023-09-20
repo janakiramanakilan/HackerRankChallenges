@@ -18,8 +18,8 @@ public class PlusMinusTests
         //List<int> arr=new List<int>(){1,1,0,-1,-1};
         StringWriter sw = new StringWriter();
         Console.SetOut(sw);
-        Challenges.PlusMinus.plusMinus(arr);
-
+        PlusMinus.plusMinus(arr);
+        
         // string expected = $"0.400000\n0.400000\n0.200000\r\n";
         Assert.AreEqual(expected, sw.ToString());
    
@@ -33,7 +33,7 @@ public class PlusMinusTests
         StringWriter sw = new StringWriter();
         Console.SetOut(sw);
         
-        Challenges.PlusMinus.plusMinus(arr);
+        PlusMinus.plusMinus(arr);
 
         string expected = $"0.400000\n0.400000\n0.200000\r\n";
         Assert.AreEqual(expected, sw.ToString());
